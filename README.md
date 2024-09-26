@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/DavidScanu/oc-ai-engineer-p03-preparez-des-donnees-pour-un-organisme-de-sante-publique/refs/heads/main/images/oc-banner-projet-03.png" />
+![OpenClassrooms Banner Projet 3](https://raw.githubusercontent.com/DavidScanu/oc-ai-engineer-p03-preparez-des-donnees-pour-un-organisme-de-sante-publique/refs/heads/main/images/oc-banner-project-03-1660.png)
 
 # Projet 3 - Préparez des données pour un organisme de santé publique
 
-🎓 OpenClassrooms • Parcours [AI Engineer](https://openclassrooms.com/fr/paths/795-ai-engineer) | 👋 *Etudiant* : [David Scanu](https://www.linkedin.com/in/davidscanu14/)
-
----
+> 🎓 OpenClassrooms • Parcours [AI Engineer](https://openclassrooms.com/fr/paths/795-ai-engineer) | 👋 *Etudiant* : [David Scanu](https://www.linkedin.com/in/davidscanu14/)
 
 ## 📝 Contexte
 
