@@ -1,4 +1,4 @@
-![OpenClassrooms Banner Projet 3](https://raw.githubusercontent.com/DavidScanu/oc-ai-engineer-p03-preparez-des-donnees-pour-un-organisme-de-sante-publique/refs/heads/main/images/oc-banner-project-03-1660-v8.png)
+![OpenClassrooms Banner Projet 3](https://raw.githubusercontent.com/DavidScanu/oc-ai-engineer-p03-preparez-des-donnees-pour-un-organisme-de-sante-publique/refs/heads/main/images/oc-banner-project-03-1660-v9.png)
 
 # Projet 3 - Préparez des données pour un organisme de santé publique
 
